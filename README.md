@@ -47,6 +47,4 @@ My development activity and statistics.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatel7&layout=compact&theme=tokyonight" alt="Top Languages" /> <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravipatel7&theme=tokyonight" alt="GitHub Streak" /><br/><br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=ravipatel7&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
